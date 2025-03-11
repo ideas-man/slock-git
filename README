@@ -10,14 +10,6 @@ In order to build slock you need the Xlib header files.
 
 Installation
 ------------
-Edit config.mk to match your local setup (slock is installed into
-the /usr/local namespace by default).
-
-Afterwards enter the following command to build and install slock:
+Run enter the following command to build and install slock:
 
     $ makepkg --noconfirm -Cfsi
-
-
-Running slock
--------------
-Simply invoke the 'slock' command. To get out of it, enter your password.
