@@ -1,7 +1,7 @@
 _pkgname=slock
 pkgname=$_pkgname-git
 pkgver=1.5
-pkgrel=1
+pkgrel=2
 pkgdesc="Simple X display locker"
 url='http://tools.suckless.org/slock'
 arch=('i686' 'x86_64' 'armv7h')
